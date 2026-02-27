@@ -4,12 +4,12 @@
     "supported_formats":[16,64],
   	"min_format":[16,0],
 		"max_format":[114514,114514],
-    "description":"Experimental Beauty§6 ⁺\n§r"
+    "description":"Experimental Beauty\n§r§bNow with more variants!"
   },
   "overlays":{
     "entries":[
       {
-        "directory":"ltsc_compat",
+        "directory":"ltsc_ui_compat",
         "formats":[16,64],
         "min_format":[16,0],
 		    "max_format":[114514,114514]
