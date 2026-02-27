@@ -9,13 +9,13 @@
   "overlays":{
     "entries":[
       {
-        "directory":"ltsc_ui_compat",
+        "directory":"ltsc_16+_others_compat",
         "formats":[16,64],
         "min_format":[16,0],
 		    "max_format":[114514,114514]
       },
       {
-        "directory":"others_compat",
+        "directory":"ltsc_16+_ui_compat",
         "formats":[16,64],
         "min_format":[16,0],
 		    "max_format":[114514,114514]
