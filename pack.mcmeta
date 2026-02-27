@@ -25,6 +25,12 @@
         "formats":[22,64],
         "min_format":[22,0],
 		    "max_format":[114514,114514]
+      },
+      {
+        "directory":"ltsc_37_compat",
+        "formats":[37,64],
+        "min_format":[37,0],
+		    "max_format":[114514,114514]
       }
     ]
   }
