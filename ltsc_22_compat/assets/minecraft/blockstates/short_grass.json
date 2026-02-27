@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/short_grass", "weight": 5 },
+            { "model": "minecraft:block/short_grass_alt", "weight": 7 },
+            { "model": "minecraft:block/short_grass_alt2", "weight": 5 },
+            { "model": "minecraft:block/short_grass_alt3", "weight": 3 },
+            { "model": "minecraft:block/short_grass_alt4", "weight": 4 },
+            { "model": "minecraft:block/short_grass_alt5", "weight": 6 }
+        ]
+    }
+}
