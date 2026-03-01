@@ -15,6 +15,12 @@
 		    "max_format":[114514,114514]
       },
       {
+        "directory":"ltsc_16_new_stuff",
+        "formats":[16,64],
+        "min_format":[16,0],
+		    "max_format":[114514,114514]
+      },
+      {
         "directory":"ltsc_16_ui_compat",
         "formats":[16,64],
         "min_format":[16,0],
