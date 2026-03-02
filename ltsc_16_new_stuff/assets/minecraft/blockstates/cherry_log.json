@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "axis=x": [
+      {"model": "minecraft:block/cherry_log_x", "weight": 50},
+      {"model": "minecraft:block/cherry_log_x_alt1", "weight": 50},
+      {"model": "minecraft:block/cherry_log_x_alt2", "weight": 10}
+    ],
+    "axis=y": [
+      {"model": "minecraft:block/cherry_log_y", "weight": 50},
+      {"model": "minecraft:block/cherry_log_y_alt1", "weight": 50},
+      {"model": "minecraft:block/cherry_log_y_alt2", "weight": 10}
+    ],
+    "axis=z": [
+      {"model": "minecraft:block/cherry_log_z", "weight": 50},
+      {"model": "minecraft:block/cherry_log_z_alt1", "weight": 50},
+      {"model": "minecraft:block/cherry_log_z_alt2", "weight": 10}
+    ]
+  }
+}
