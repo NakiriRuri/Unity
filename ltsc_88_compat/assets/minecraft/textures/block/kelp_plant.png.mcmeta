@@ -1,6 +1,6 @@
 {
   "animation": {
-    "frametime": 2
+    "frametime": 3
   },
   "texture": {
     "alpha_cutoff_bias": 0.1
